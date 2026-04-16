@@ -1,0 +1,56 @@
+cod_barras,nome,categoria,desc,preco,quant
+7891000000011,Arroz Branco 5kg,Alimentos,Arroz tipo 1 pacote 5kg,24.9,50
+7891000000028,Feijão Carioca 1kg,Alimentos,Feijão carioca tipo 1,8.5,80
+7891000000035,Açúcar Refinado 1kg,Alimentos,Açúcar branco refinado,4.2,100
+7891000000042,Café Torrado 500g,Bebidas,Café moído tradicional,12.9,60
+7891000000059,Leite Integral 1L,Laticínios,Leite integral longa vida,5.3,120
+7891000000066,Macarrão Espaguete 500g,Alimentos,Massa de trigo tipo espaguete,3.8,90
+7891000000073,Óleo de Soja 900ml,Alimentos,Óleo vegetal refinado,6.7,70
+7891000000080,Sal Refinado 1kg,Alimentos,Sal iodado refinado,2.5,110
+7891000000097,Manteiga 200g,Laticínios,Manteiga com sal,9.9,40
+7891000000103,Queijo Mussarela 500g,Laticínios,Queijo fatiado,18.5,35
+7891000000110,Refrigerante Cola 2L,Bebidas,Bebida gaseificada sabor cola,9.0,75
+7891000000127,Suco de Laranja 1L,Bebidas,Suco integral de laranja,7.8,65
+7891000000134,Biscoito Recheado 140g,Alimentos,Biscoito doce recheado,2.99,150
+7891000000141,Chocolate ao Leite 100g,Doces,Chocolate ao leite barra,5.5,85
+7891000000158,Sabonete 90g,Higiene,Sabonete perfumado,2.2,200
+7891000000165,Shampoo 350ml,Higiene,Shampoo para cabelos normais,12.0,55
+7891000000172,Condicionador 350ml,Higiene,Condicionador hidratante,13.0,50
+7891000000189,Papel Higiênico 12un,Higiene,Papel higiênico folha dupla,18.9,45
+7891000000196,Detergente 500ml,Limpeza,Detergente líquido neutro,2.8,130
+7891000000202,Desinfetante 1L,Limpeza,Desinfetante perfumado,6.5,60
+7891000000219,Água Sanitária 1L,Limpeza,Alvejante líquido,4.0,70
+7891000000226,Esponja de Limpeza,Limpeza,Esponja multiuso,1.5,180
+7891000000233,Carne Bovina 1kg,Açougue,Carne fresca bovina,32.0,25
+7891000000240,Frango Inteiro 1kg,Açougue,Frango resfriado,14.0,40
+7891000000257,Ovos 12un,Alimentos,Ovos brancos dúzia,9.5,90
+7891000000264,Pão de Forma 500g,Padaria,Pão macio fatiado,7.2,55
+7891000000271,Margarina 250g,Laticínios,Margarina com sal,6.0,65
+7891000000288,Farinha de Trigo 1kg,Alimentos,Farinha branca especial,4.8,85
+7891000000295,Cerveja Lata 350ml,Bebidas,Cerveja pilsen lata,3.5,200
+7891000000301,Energético 250ml,Bebidas,Bebida energética,8.9,45
+7892000000035,Fone de Ouvido Bluetooth,Eletrônicos,Fone sem fio com estojo,199.9,60
+7892000000073,Calça Jeans Masculina,Vestuário,Calça jeans azul tradicional,89.9,70
+7892000000080,Camiseta Básica Algodão,Vestuário,Camiseta confortável,39.9,120
+7892000000097,Tênis Esportivo,Vestuário,Tênis leve para corrida,149.9,55
+7892000000103,Arroz Branco 5kg,Alimentos,Arroz tipo 1 pacote 5kg,24.9,50
+7892000000110,Feijão Carioca 1kg,Alimentos,Feijão tipo 1,8.5,80
+7892000000127,Açúcar Refinado 1kg,Alimentos,Açúcar branco,4.2,100
+7892000000134,Café Torrado 500g,Bebidas,Café moído tradicional,12.9,60
+7892000000141,Leite Integral 1L,Laticínios,Leite longa vida,5.3,120
+7892000000158,Macarrão Espaguete 500g,Alimentos,Massa de trigo,3.8,90
+7892000000165,Óleo de Soja 900ml,Alimentos,Óleo vegetal,6.7,70
+7892000000172,Sal Refinado 1kg,Alimentos,Sal iodado,2.5,110
+7892000000189,Manteiga 200g,Laticínios,Manteiga com sal,9.9,40
+7892000000196,Queijo Mussarela 500g,Laticínios,Queijo fatiado,18.5,35
+7892000000202,Refrigerante Cola 2L,Bebidas,Bebida gaseificada,9.0,75
+7892000000219,Suco de Laranja 1L,Bebidas,Suco integral,7.8,65
+7892000000226,Biscoito Recheado 140g,Alimentos,Biscoito doce,2.99,150
+7892000000233,Chocolate ao Leite 100g,Doces,Chocolate barra,5.5,85
+7892000000240,Sabonete 90g,Higiene,Sabonete perfumado,2.2,200
+7892000000257,Shampoo 350ml,Higiene,Shampoo uso diário,12.0,55
+7892000000264,Condicionador 350ml,Higiene,Condicionador hidratante,13.0,50
+7892000000271,Papel Higiênico 12un,Higiene,Papel folha dupla,18.9,45
+7892000000288,Detergente 500ml,Limpeza,Detergente neutro,2.8,130
+7892000000295,Desinfetante 1L,Limpeza,Desinfetante perfumado,6.5,60
+7892000000301,Água Sanitária 1L,Limpeza,Alvejante líquido,4.0,70
